@@ -1,0 +1,11 @@
+C:\Users\sixusix\source\repos\KSevadGUI\KSevadGUI\bin\Debug\KSevadGUI.exe.config
+C:\Users\sixusix\source\repos\KSevadGUI\KSevadGUI\bin\Debug\KSevadGUI.exe
+C:\Users\sixusix\source\repos\KSevadGUI\KSevadGUI\bin\Debug\KSevadGUI.pdb
+C:\Users\sixusix\source\repos\KSevadGUI\KSevadGUI\obj\Debug\KSevadGUI.csproj.AssemblyReference.cache
+C:\Users\sixusix\source\repos\KSevadGUI\KSevadGUI\obj\Debug\KSevad.Form1.resources
+C:\Users\sixusix\source\repos\KSevadGUI\KSevadGUI\obj\Debug\KSevadGUI.Properties.Resources.resources
+C:\Users\sixusix\source\repos\KSevadGUI\KSevadGUI\obj\Debug\KSevadGUI.csproj.GenerateResource.cache
+C:\Users\sixusix\source\repos\KSevadGUI\KSevadGUI\obj\Debug\KSevadGUI.csproj.CoreCompileInputs.cache
+C:\Users\sixusix\source\repos\KSevadGUI\KSevadGUI\obj\Debug\KSevadGUI.exe
+C:\Users\sixusix\source\repos\KSevadGUI\KSevadGUI\obj\Debug\KSevadGUI.pdb
+C:\Users\sixusix\source\repos\KSevadGUI\KSevadGUI\obj\Debug\KSevadGUI.exe.config
