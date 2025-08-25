@@ -11,7 +11,7 @@ KSevad can load drivers in your system that bypass the following virtualisation 
 
 ## Prerequisites
 - Test signing enabled: required to load unsigned drivers (https://learn.microsoft.com/en-us/windows-hardware/drivers/install/test-signing).
-- PatchGuard Disabled: only mandatory when loading processes for detection bypass (https://github.com/Mattiwatti/EfiGuard?tab=readme-ov-file#usage).
+- PatchGuard Disabled: only mandatory when loading processes detection bypass (https://github.com/Mattiwatti/EfiGuard?tab=readme-ov-file#usage).
 
 ## Installation
 1. Compile the project yourself or download the compiled binaries. 
