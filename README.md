@@ -2,7 +2,7 @@
 
 <img src="src/Logo.png" alt="My Logo" width="250"/>
 
-KSevad can load drivers in your system that bypass the following virtualisation detections:
+KSevad can load drivers in your system that bypass the following virtualization detections:
  - Registry.
  - Files.
  - PCI.
