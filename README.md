@@ -1,3 +1,3 @@
 # KSevad
 
-![My Logo](src/Logo.png)
+<img src="src/Logo.png" alt="My Logo" width="150"/>
